@@ -1,0 +1,27 @@
+python
+type of datatype
+1 numerical
+	int
+	float
+	complex
+2 set
+3 list
+4 dictionary
+5 tupple
+6 string
+
+mutable(set,list,dictionary)
+
+
+
+
+
+
+
+string
+for concatation we use+
+for repeatation we use *
+
+string formating
+
+in python in divsion operation insingle slash it will give ans in points
